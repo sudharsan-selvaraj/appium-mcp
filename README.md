@@ -131,7 +131,6 @@ MCP Appium provides a comprehensive set of tools organized into the following ca
 
 | Tool | Description |
 |------|-------------|
-| `generate_locators` | Generate intelligent locators for all interactive elements on the current screen |
 | `appium_find_element` | Find a specific element using various locator strategies (xpath, id, accessibility id, etc.) |
 | `appium_click` | Click on an element |
 | `appium_double_tap` | Perform double tap on an element |
@@ -161,6 +160,7 @@ MCP Appium provides a comprehensive set of tools organized into the following ca
 
 | Tool | Description |
 |------|-------------|
+| `generate_locators` | Generate intelligent locators for all interactive elements on the current screen |
 | `appium_generate_tests` | Generate automated test code from natural language scenarios |
 | `appium_documentation_query` | Query Appium documentation using RAG for help and guidance |
 
